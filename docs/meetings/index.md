@@ -2,6 +2,7 @@
 
 Meeting | Location | Logo
 --------|----------|-----
+[SNT 2027](snt2027.md) | Stuttgart                                 | 
 [SNT 2026](snt2026.md) | Karlsruhe                               | ![snt2026.png](snt2026.png){ width="100" }
 [SNT 2025](snt2025.md) | Košice                                  | 
 [SNT 2024](snt2024.md) | Chemnitz                                | ![snt2024.png](snt2024.png){ width="100" }
